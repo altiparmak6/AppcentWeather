@@ -3,7 +3,7 @@
 Notlar
 - ! Network status simülatörde doğru çalışmayabiliyor. Gerçek telefonda tamamen doğru bir şekilde çalışıyor. Bağlantı koparsa etiket renk değiştiriyor.
 - MVVM mimarisi uygulandı. Data binding için boxing tekniği kullanıldı
-- UIKit ile programatik olarak kullanıldı.
+- UIKit programatik olarak kullanıldı.
 - Alamofire ve Kingfisher kütüphaneleri kullanıldı. Swift Package Manager ile entegre edildi.
 - Unit test eklenmedi.
 - Çalışmanın olması gereken kriterleri yerine getirildi.
